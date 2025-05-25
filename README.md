@@ -1,4 +1,3 @@
-
 <!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
@@ -12,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm **Sakib ul Nasib**, an enthusiastic learner currently diving into **Frontend Web Development**.  
+I'm *Sakib ul Nasib, an enthusiastic learner currently diving into **Frontend Web Development*.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
 
 ## 🚀 What I'm Learning
@@ -24,7 +23,7 @@ I’m passionate about creating clean, user-friendly websites and always eager t
 - MongoDB
 - Git & GitHub
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -33,6 +32,15 @@ I’m passionate about creating clean, user-friendly websites and always eager t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 🌐 Styling with Tailwind CSS & DaisyUI
+
+I’m also learning and using utility-first CSS with *Tailwind CSS* and its powerful UI components library *DaisyUI*.
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white)
+
+> Building beautiful UIs faster with the flexibility of Tailwind and the simplicity of DaisyUI.
 
 ## 📈 GitHub Stats
 
@@ -53,4 +61,4 @@ I’m passionate about creating clean, user-friendly websites and always eager t
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for visiting my GitHub profile!
+Thanks for visiting my GitHub profile!
