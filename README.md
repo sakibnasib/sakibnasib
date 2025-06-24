@@ -1,11 +1,9 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%"/>
-</p>
+
 
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md: Sakib ul nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 
 <p align="center">
