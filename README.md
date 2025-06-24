@@ -1,6 +1,11 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%"/>
+</p>
+
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 
 <p align="center">
@@ -52,12 +57,9 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 
 ---
 
-
 ## 📈 GitHub Stats
 
 ![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibnasib&show_icons=true&theme=react&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibnasib&layout=compact&theme=react&hide_border=true)
 
 ---
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
