@@ -18,6 +18,7 @@
 
 I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
+I have a strong passionfor learning & implementing new web technologies and standards.
 
 ---
 
