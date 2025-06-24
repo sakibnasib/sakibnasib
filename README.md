@@ -56,6 +56,8 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 > Building beautiful UIs faster with the flexibility of Tailwind and the simplicity of DaisyUI.
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📈 GitHub Stats
 
