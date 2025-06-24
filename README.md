@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
+  <img src="https://i.ibb.co/nMpQsLdc/whattimeisit.gif"?lines=I+am+Sakib+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 
 <p align="center">
