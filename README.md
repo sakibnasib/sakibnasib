@@ -11,17 +11,21 @@
 
 ## 👋 About Me
 
-I'm *Sakib ul Nasib, an enthusiastic learner currently diving into **Frontend Web Development*.  
+I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
+
+---
 
 ## 🚀 What I'm Learning
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- React.js
-- MongoDB
-- Git & GitHub
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- React.js  
+- MongoDB  
+- Git & GitHub  
+
+---
 
 ## 🛠 Tools & Technologies
 
@@ -32,6 +36,10 @@ I’m passionate about creating clean, user-friendly websites and always eager t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+---
 
 ## 🌐 Styling with Tailwind CSS & DaisyUI
 
@@ -42,23 +50,28 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 
 > Building beautiful UIs faster with the flexibility of Tailwind and the simplicity of DaisyUI.
 
+---
+
 ## 📈 GitHub Stats
 
-![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibnasib&show_icons=true&theme=react&hide_border=true)
-
+![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakibnasib&show_icons=true&theme=react&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibnasib&layout=compact&theme=react&hide_border=true)
 
 ---
 
-## 📫 Contact Me
+## 💡 My Developer Profile (`thai` object)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19WzR6cmzD/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643606692)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibnasib)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abcd.sakib50@gamil.com)
+```js
+const thai = {
+  pronouns: "she" | "her",
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Ruby", "Python", "Java"],
+  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "AfroPython",
+    speaker: "Latinity",
+    mentor: "EducaTRANSforma"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting my GitHub profile!
