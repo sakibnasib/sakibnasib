@@ -51,7 +51,7 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 > Building beautiful UIs faster with the flexibility of Tailwind and the simplicity of DaisyUI.
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 ## 📈 GitHub Stats
 
@@ -60,4 +60,4 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 
 ---
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
