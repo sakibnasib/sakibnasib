@@ -1,6 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
- 
+ ![Cover](https://i.ibb.co/dJXSKKZ2/banner.jpg)
+![Profile views](https://komarev.com/ghpvc/?username=atik735&label=Profile%20views&color=0A66C2&style=flat-square)
+
+<br />
+<a target="_blank" href="#"><img width="350" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
+
 </p>
 
 <!-- Typing animation -->
