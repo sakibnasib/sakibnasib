@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
- ![Cover](https://i.ibb.co/dJXSKKZ2/banner.jpg)
+![Cover Image](https://i.ibb.co/dJXSKKZ2/banner.jpg)
 ![Profile views](https://komarev.com/ghpvc/?username=sakibnasib&label=Profile%20views&color=0A66C2&style=flat-square)
 
 <br />
