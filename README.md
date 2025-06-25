@@ -1,12 +1,13 @@
 <!-- Banner Image -->
 <p align="center">
-![Cover Image](https://i.ibb.co/dJXSKKZ2/banner.jpg)
-![Profile views](https://komarev.com/ghpvc/?username=sakibnasib&label=Profile%20views&color=0A66C2&style=flat-square)
-
-<br />
-<a target="_blank" href="#"><img width="350" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
-
+  <img src="https://i.ibb.co/dJXSKKZ2/banner.jpg" alt="Cover Image" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=sakibnasib&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views" />
+  <br/>
+  <a href="#" target="_blank">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" alt="Coding GIF" />
+  </a>
 </p>
+
 
 <!-- Typing animation -->
 <h1 align="center">
