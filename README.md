@@ -24,7 +24,8 @@
 
 I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
-I have a strong passionfor learning & implementing new web technologies and standards.
+I have a strong passionfor learning & implementing new web technologies and standards.📚 Currently I am exploring and learning NEXT.JS
+
 - 📫 **Email:** abcd.sakib50@gmail.com
 - 🌐 **Portfolio:** Coming Soon
 - 📍 **Location:**Rajshahi ,Bangladesh
