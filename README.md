@@ -25,10 +25,15 @@
 I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
 I have a strong passionfor learning & implementing new web technologies and standards.
-- 📫 **Email:** 
+- 📫 **Email:** abcd.sakib50@gmail.com
 - 🌐 **Portfolio:** Coming Soon
-- 📍 **Location:** Jashore,Khulna,Bangladesh
+- 📍 **Location:**Rajshahi ,Bangladesh
 ---
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/ki.korbi.id.diye](https://www.facebook.com/share/1AVE4m6GzA/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abcd.sakib50@gmail.com)
 
 ## 🚀 What I'm Learning
 
