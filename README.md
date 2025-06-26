@@ -7,26 +7,28 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" alt="Coding GIF" />
   </a>
 </p>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
-</p>
+
 
 <!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md:Sakib+ul+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
+</p>
+
+---
 
 ## 👋 About Me
 
-I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
+I'm Sakib ul Nasib, an enthusiastic learner currently diving into *Frontend Web Development*.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
 I have a strong passionfor learning & implementing new web technologies and standards.📚 Currently I am exploring and learning NEXT.JS
 
-- 📫 **Email:** abcd.sakib50@gmail.com
-- 🌐 **Portfolio:** Coming Soon
-- 📍 **Location:**Rajshahi ,Bangladesh
-- 
+- 📫 *Email:* abcd.sakib50@gmail.com
+- 🌐 *Portfolio:* Coming Soon
+- 📍 *Location:*Rajshahi ,Bangladesh
 ---
 ## 🌐 Connect with Me
 
@@ -62,7 +64,7 @@ I have a strong passionfor learning & implementing new web technologies and stan
 
 ## 🌐 Styling with Tailwind CSS & DaisyUI
 
-I’m also learning and using utility-first CSS with *Tailwind CSS* and its powerful UI components library *DaisyUI*.
+I’m also learning and using utility-first CSS with Tailwind CSS and its powerful UI components library DaisyUI.
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white)
@@ -70,7 +72,7 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 > Building beautiful UIs faster with the flexibility of Tailwind and the simplicity of DaisyUI.
 
 ---
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📈 GitHub Stats
@@ -82,4 +84,3 @@ I’m also learning and using utility-first CSS with *Tailwind CSS* and its powe
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p><p > <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></p></p>
-
