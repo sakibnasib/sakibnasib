@@ -7,16 +7,16 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right" alt="Coding GIF" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
+</p>
 
 <!-- Typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md:Sakib+ul+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
-</p>
+
 ## 👋 About Me
 
 I'm *Sakib ul Nasib*, an enthusiastic learner currently diving into **Frontend Web Development**.  
