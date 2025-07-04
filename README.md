@@ -27,7 +27,7 @@ I’m passionate about creating clean, user-friendly websites and always eager t
 I have a strong passionfor learning & implementing new web technologies and standards.📚 Currently I am exploring and learning NEXT.JS
 
 - 📫 *Email:* abcd.sakib50@gmail.com
-- 🌐 *Portfolio:* Coming Soon
+- 🌐 *Portfolio:* https://sakibnasib.netlify.app/
 - 📍 *Location:*Rajshahi ,Bangladesh
 ---
 ## 🌐 Connect with Me
