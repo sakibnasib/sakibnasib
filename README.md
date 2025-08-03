@@ -1,8 +1,6 @@
 <!-- Banner Image -->
 <!-- Typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md:Sakib+ul+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
-</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sakib</h1>  
 <p align="center">
   <img src="https://i.ibb.co/dJXSKKZ2/banner.jpg" alt="Cover Image" width="100%" />
 </p>
