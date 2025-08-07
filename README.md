@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <!-- Typing animation -->
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sakib</h1>  
+<h1 align="center">Hi <img src = "[https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif](https://i.ibb.co.com/nNZcfP5t/Black-and-White-Gradient-Personal-Linked-In-Banner.png)" width="50px" height="50px">, I'm Sakib</h1>  
 <p align="center">
   <img src="https://i.ibb.co/dJXSKKZ2/banner.jpg" alt="Cover Image" width="100%" />
 </p>
