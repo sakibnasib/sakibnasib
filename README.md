@@ -2,7 +2,7 @@
 <!-- Typing animation -->
 <h1 align="center">Hi <img src = "" width="50px" height="50px">, I'm Sakib</h1>  
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif](https://i.ibb.co.com/nNZcfP5t/Black-and-White-Gradient-Personal-Linked-In-Banner.png)" alt="Cover Image" width="100%" />
+  <img src="https://i.ibb.co.com/nNZcfP5t/Black-and-White-Gradient-Personal-Linked-In-Banner.png" alt="Cover Image" width="100%" />
 </p>
 
 <p align="center">
